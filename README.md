@@ -1,2 +1,2 @@
 # holamundophp
-proyecto ´para iniciar uso de repositorio en GITHUB.
+proyecto ´para iniciar uso de repositorio en GITHUB'.
